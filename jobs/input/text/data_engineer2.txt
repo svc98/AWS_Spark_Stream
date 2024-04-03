@@ -1,0 +1,30 @@
+Date Engineer File 2
+
+About the job
+*****************(No Corp to Corp)*****************
+
+Role Title: Data Engineer
+Job Code: 4321
+Employment Type: Full Time
+Start Date: 01-10-2023
+Revised: 02-10-2023
+Duration: 18 months
+Preferred Location: Charlotte, NC - 2 days per week, but can be remote for the right person (first week onsite with expenses paid)
+Application: Online
+Selections Process: 3 rounds
+
+
+Role Description:
+Building real-time data pipelines to transform large unstructured financial documents and data sets into valuable inputs for their financial LLM. A fast paced work environment that requires flexibility to address and solve various product, architectural, and business needs for clients. Ability to build relationships across multiple end users and leverage technical expertise (Python, SQL, Apache, AWS) accordingly. Interest and motivation to push the boundaries of AI research - beyond the current publications/benchmarks.
+
+Requirements:
+Bachelor degree or equivalent with emphasis in finance, accounting, and/or statistics. 2 years relevant experience
+
+Annual Salary: $80,000 to $90,000; $90,000 to $100,000; $100,000 to $110,000;
+
+Application Deadline:
+11:59 pm Friday April 21, 2024!
+
+
+Notes:
+PLease leave a review on the interview process
