@@ -3,7 +3,6 @@ version: '3'
 x-spark-common:
   &spark-common
   image: extending-spark:latest
-  #  command: bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
   volumes:
     - ./jobs:/opt/bitnami/spark/jobs
   environment:
@@ -26,7 +25,6 @@ services:
     image: extending-spark:latest
     hostname: spark-master
     container_name: spark-master
-#    command: bin/spark-class org.apache.spark.master.Master
     user: root
     volumes:
       - ./jobs:/opt/bitnami/spark/jobs
